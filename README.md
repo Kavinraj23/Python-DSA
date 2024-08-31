@@ -1,6 +1,6 @@
 # Python Algorithms and Data Structures
 
-This repository contains implementations of various algorithms and data structures in Python. It serves as a comprehensive resource for understanding fundamental concepts in computer science and can be used as a study aid or reference for coding interviews.
+This repository contains implementations of various algorithms and data structures in Python. 
 
 ## Contents
 
