@@ -14,7 +14,3 @@ This repository contains implementations of various algorithms and data structur
 ## How to Use
 
 Each algorithm and data structure is implemented in a separate Python file with detailed comments explaining the logic and steps involved. You can clone this repository and run the scripts individually to understand their workings.
-
-## Contributing
-
-Contributions are welcome! If you have improvements or additional implementations you'd like to share, feel free to submit a pull request.
